@@ -9,7 +9,7 @@ https://github.com/Ijaz2k/CNN_Robustness_MNIST
 
 https://github.com/DZYAMT/CNN-Traffic-Sign-Classifications
 
-https://github.com/farrelfernandaa/Waste-Classification-Using-FPGA-Based-Convolutional-Neural-Network-CNN
+https://github.com/farrelfernandaa/Waste-Classification-Using-FPGA-Based-Convolutional-Neural-Network-CNN-
 
 https://github.com/Alyaputri11/Flower-Classification-CNN
 
