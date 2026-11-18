@@ -1,6 +1,17 @@
 # CNN
 CNN algorithm for LSI-Design Contest 2027
 
+https://github.com/camefrommars/CNN-FPGA-Math-Symbol-Recognition
+https://github.com/nathaniel-starlink/CNN-Implementation
+https://github.com/Ijaz2k/CNN_Robustness_MNIST
+https://github.com/DZYAMT/CNN-Traffic-Sign-Classifications
+https://github.com/farrelfernandaa/Waste-Classification-Using-FPGA-Based-Convolutional-Neural-Network-CNN
+https://github.com/Alyaputri11/Flower-Classification-CNN
+https://github.com/xagafax/CNN_FPGA_MaskDetection
+https://github.com/thisisrere/FPGA-BananaClassifier
+
+
+
 ## Repository Structure
 
 | Folder | Content |
